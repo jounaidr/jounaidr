@@ -3,4 +3,4 @@
 #### Intrests in: HPC, AI/ML, concurrent software, hashing/cryptography, quantum technologies ...
 
 
-(I lost all my 2019 contributions btw which was like half of them 😵‍)
+<sub><sup>(I lost all my 2019 contributions btw which was like half of them 😵‍)</sub></sup>
