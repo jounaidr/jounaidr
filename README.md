@@ -2,6 +2,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jounaidr&exclude_repo=jrvr-world,jrc-node-javadocs,jrc-node-API-docs&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--- </br><sup>(I lost all my 2019 private contributions btw which was like 70% of them 😵‍)</sup> --->
 
-### Intrests in: HPC, AI/ML, concurrent software, hashing/cryptography, quantum technologies ...
+### Intrests in: HPC, AI/ML, concurrent software, hashing/cryptography, blockchain, quantum technologies ...
 
 
