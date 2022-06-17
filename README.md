@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jounaidr&exclude_repo=jrvr-world,jrc-node-javadocs,jrc-node-API-docs&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 <!--- </br><sup>(I lost all my 2019 private contributions btw which was like 70% of them 😵‍)</sup> --->
 
-#### Recent Projects
+#### Recent Projects:
 - [py-flask-demo](github.com/jounaidr/py-flask-demo), a simple flask server which maintains a scoreboard, with caching functionality.
 
 #### Languages, Frameworks and Tools:
