@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jounaidr&exclude_repo=jrvr-world,jrc-node-javadocs,jrc-node-API-docs&theme=tokyonight&langs_count=5&hide=html,Jupyter+Notebook&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jounaidr&exclude_repo=jrvr-world,jrc-node-javadocs,jrc-node-API-docs&theme=buefy&langs_count=5&hide=html,Jupyter+Notebook&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- #### Recent Projects:
 - [py-flask-demo](https://github.com/jounaidr/py-flask-demo), a simple flask server which maintains a scoreboard, with caching functionality. ~~Live: [159.65.87.227:8888](http://159.65.87.227:8888/scores/1/)~~
