@@ -1,4 +1,11 @@
-
+```
+                                             ___________  ___________         ___________
+                                            /_   \   _  \ \_   _____/___   ___\__    ___/
+                                             |   /  /_\  \ |    __)/  _ \ /  _ \|    |
+                                             |   \  \_/   \|     \(  <_> |  <_> )    |
+                                             |___|\_____  /\___  / \____/ \____/|____|
+                                                        \/     \/
+```
 <!--- #### Recent Projects:
 - [py-flask-demo](https://github.com/jounaidr/py-flask-demo), a simple flask server which maintains a scoreboard, with caching functionality. ~~Live: [159.65.87.227:8888](http://159.65.87.227:8888/scores/1/)~~
 - [oat-server](https://github.com/Open-Algo-Trading/oat-server), a FastAPI server which contains various trading algorithms. ~~Live: [159.65.87.227:9000](http://159.65.87.227:9000/docs) ([Client](http://159.65.87.227))~~ -->
