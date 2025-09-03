@@ -11,7 +11,7 @@
 
 #### <samp>Intrests in: HPC, AI/ML, MLOps, concurrent software, hashing/cryptography, blockchain, quantum technologies, observability ...</samp>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jounaidr&exclude_repo=jrvr-world,jrc-node-javadocs,jrc-node-API-docs&theme=buefy&langs_count=5&hide=html,Jupyter+Notebook&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jounaidr&exclude_repo=jrvr-world,jrc-node-javadocs,jrc-node-API-docs&theme=buefy&langs_count=5&hide=html,Jupyter+Notebook&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--- #### Recent Projects:
